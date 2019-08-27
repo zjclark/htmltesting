@@ -1,0 +1,48 @@
+body {
+    border-style: solid;
+    border-width: 10px;
+    /*outline-offset: 5px; */
+    border-color: #992e24;
+    
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    
+    background-color: #e9e5dd;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 180px;
+    padding-right: 20px;
+    
+}
+
+/* sidebar menu */
+
+.sidenav {
+     /* Full height: remove this if you want auto height */
+    width: 160px;
+    position: fixed; /* stay in place on scroll */
+    z-index: 1; /* stay on top */
+    top: 15; /* stay on top */
+    left: 15;
+    bottom: 15;
+    background-color: #006BC8;
+    text-align: center
+    
+}
+
+.sidenav a {
+    padding: 6px;
+    text-decoration: none;
+    font-size: 25px;
+    display: block;
+    color: white;
+}
+h1 {
+    font-family: 'Acme', sans-serif;
+}
+h2 {
+    font-family: 'Acme', sans-serif;
+}
